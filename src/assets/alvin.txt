@@ -1,7 +1,7 @@
-<span id="a">engr-alanjr@cool-mac</span>:<span id="b">~</span><span id="c">$</span> cd AlanjrP/<!-- ................. -->About_Me
+<span id="a">engr-alanjr@cool-mac</span>:<span id="b">~</span><span id="c">$</span> cd Alanjr P./<!-- ................. -->About_Me
 <span id="a">engr-alanjr@cool-mac</span>:<span id="b">~</span><span id="c">$</span> cat <!-- ........................ -->alanjr.txt
 <p>Hello! My name is Alan jr, I am a Web Developer.</p><!-- ............................................................. -->
-<p>I specialized in building RestfulAPI using PHP with Laravel framework.</p><!-- ............................................................. -->
+<p>I specialized in building wordpress and elementor.</p><!-- ............................................................. -->
 <p>I have been serving online businesses since 2020.</p><!-- longlonglongcomment --> I started as a Virtual Assistant then become an Internet Marketer skilled with SEO basics before 2021 when I teached myself Web Programming.<!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p>As of today I already built or a part of building 10+ web applications projects.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p>You can look into some of my work experiences and my contact details by following this <a href="https://alvin.pandaydigital.com/"> link</a>.</p><!-- .................................... -->
